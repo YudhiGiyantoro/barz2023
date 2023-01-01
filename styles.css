@@ -41,6 +41,8 @@
   --mb-6: 3rem; 
   --mb-7: 6rem; 
   --mb-8: 8rem; 
+  --mb-9: 10rem;
+  --mb-10: 12rem;
 }
 
 /*===== z index =====*/
@@ -128,7 +130,7 @@ margin-left: 110px;
   position: relative;
   font-size: var(--h2-font-size);
   color: var(--first-color);
-  margin-top: var(--mb-8);
+  margin-top: var(--mb-10);
   margin-bottom: var(--mb-2);
 }
 
@@ -1031,7 +1033,7 @@ color: #17c0eb
 }
 
  .sections{
-   margin-top: 80px;
+   margin-top: 48px;
 margin-bottom: -120px;
   }
 
