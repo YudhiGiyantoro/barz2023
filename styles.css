@@ -40,9 +40,9 @@
   --mb-5: 2.5rem;
   --mb-6: 3rem; 
   --mb-7: 6rem; 
-  --mb-8: 10rem; 
+  --mb-8: 8rem; 
   --mb-9: 9rem; 
-  --mb-10: 12rem; 
+  --mb-10: 10rem; 
 }
 
 /*===== z index =====*/
@@ -130,7 +130,7 @@ margin-left: 110px;
   position: relative;
   font-size: var(--h2-font-size);
   color: var(--first-color);
-  margin-top: var(--mb-8);
+  margin-top: var(--mb-10);
   margin-bottom: var(--mb-2);
 }
 
